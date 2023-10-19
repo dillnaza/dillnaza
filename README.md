@@ -29,11 +29,4 @@ I used to participate in various Olympiads, including programming. You can get a
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)
 
-## Contact Information 📧
-
-- Email: [dilnazbaidakhanova@gmail.com](mailto:dilnazbaidakhanova@gmail.com) 
-- Telegram: [@dillnazzza](https://t.me/dillnazzza) 
-
-
-
 Thank you for visiting my GitHub page! Feel free to connect and collaborate. 🚀
