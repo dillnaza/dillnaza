@@ -29,15 +29,11 @@ Hello, I am Dilnaza Baidakhanova! I have been immersed in the world of programmi
 
 I used to participate in various Olympiads, including programming. You can get acquainted with my achievements in programming and more detailed information on [LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/ )
 
-## LeetCode Statistics 🤖## LeetCode Statistics 🤖
+# GitHub & LeetCode Stats 📊
 
-- LeetCode Solved Questions: [![LeetCode Solved Questions](https://img.shields.io/badge/LeetCode-XX-brightgreen)](https://leetcode.com/dillnazza/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true)
+![LeetCode Stats](https://leetcode.com/dillnazza/)
 
-### LeetCode by Category 🏋️
-
-- Easy: ![Easy LeetCode Solved](https://img.shields.io/badge/Easy-XX-brightgreen)
-- Medium: ![Medium LeetCode Solved](https://img.shields.io/badge/Medium-XX-brightgreen)
-- Hard: ![Hard LeetCode Solved](https://img.shields.io/badge/Hard-XX-brightgreen)
 
 ## Personal interests 📖
 
