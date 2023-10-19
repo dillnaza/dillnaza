@@ -33,7 +33,13 @@ I used to participate in various Olympiads, including programming. You can get a
 
 - LeetCode Solved Questions: [![LeetCode Solved Questions](https://img.shields.io/badge/LeetCode-Your_Solved_Questions-brightgreen)](link_to_your_leetcode_profile)
 
-## Personal interests 📖💰
+### LeetCode by Category 🏋️
+
+- Easy: ![Easy LeetCode Solved](https://img.shields.io/badge/Easy-XX-brightgreen)
+- Medium: ![Medium LeetCode Solved](https://img.shields.io/badge/Medium-XX-brightgreen)
+- Hard: ![Hard LeetCode Solved](https://img.shields.io/badge/Hard-XX-brightgreen)
+
+## Personal interests 📖
 
 In my free time I enjoy:
 
