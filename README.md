@@ -17,8 +17,8 @@ Hello, I am Dilnaza Baidakhanova! I have been immersed in the world of programmi
 
 ## Professional courses 📚
 
-- I took a course in developing the Python Django server part at the Element Programming School under the TechOrda program.
-- Currently studying at the Java Spring development course at the JustCode Programming School with the financial support of Halyk Bank.
+- Backend Development on Django(REST) at the Element Programming School under the TechOrda program.
+- Java Spring development course at the JustCode Programming School with the financial support of Halyk Bank.
 
 ## Diverse interests and activities 🌟
 
