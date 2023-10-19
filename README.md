@@ -31,8 +31,14 @@ I used to participate in various Olympiads, including programming. You can get a
 
 # GitHub & LeetCode Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true)
-[![LeetCode Stats](https://github-readme-stats.vercel.app/api/leetcode?username=dillnazza)](https://leetcode.com/dillnazza/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true)# LeetCode Stats 📊
+
+![LeetCode Easy Solved](https://img.shields.io/badge/LeetCode-Easy-brightgreen?style=for-the-badge)
+![LeetCode Medium Solved](https://img.shields.io/badge/LeetCode-Medium-brightgreen?style=for-the-badge)
+![LeetCode Hard Solved](https://img.shields.io/badge/LeetCode-Hard-brightgreen?style=for-the-badge)
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge)](https://leetcode.com/dillnazza/)
+
 
 ## Personal interests 📖
 
