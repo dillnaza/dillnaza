@@ -31,7 +31,7 @@ I used to participate in various Olympiads, including programming. You can get a
 
 # GitHub & LeetCode Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true)# LeetCode Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true)
 [![LeetCode Stats](https://github-readme-stats.vercel.app/api/leetcode?username=dillnazza)](https://leetcode.com/dillnazza/)
 
 ## Personal interests 📖
