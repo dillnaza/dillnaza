@@ -32,19 +32,6 @@ I used to participate in various Olympiads, including programming. You can get a
 # GitHub & LeetCode Stats 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)
-
-## Personal interests 📖
-
-In my free time I enjoy:
-
-- Reading books on finance, psychology and world literature.
-- I am passionate about studying the stock market and investing for personal growth and financial research.
-
-## Connect with me 🚀
-
-- GitHub: [My GitHub profile](https://github.com/dillnaza )
-- LeetCode: [My profile with LeetCode](https://leetcode.com/dillnazza )
 
 Thank you for visiting my GitHub page! Feel free to connect and collaborate. 🚀
