@@ -20,11 +20,6 @@ Hello, I am Dilnaza Baidakhanova! I have been immersed in the world of programmi
 - Backend Development on Django(REST) at the Element Programming School under the TechOrda program.
 - Java Spring development course at the JustCode Programming School with the financial support of Halyk Bank.
 
-## Diverse interests and activities 🌟
-
-- Mentoring: I act as a mentor at my university, sharing knowledge and supporting fellow students on their educational path.
-- Volunteering: In my free time, I actively participate in volunteer work, contributing to various causes.
-
 ## Academic achievements 🏆
 
 I used to participate in various Olympiads, including programming. You can get acquainted with my achievements in programming and more detailed information on [LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/ )
@@ -33,5 +28,10 @@ I used to participate in various Olympiads, including programming. You can get a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)
+
+## Contact Information 📧
+
+- Email: [dilnazbaidakhanova@gmail.com](mailto:dilnazbaidakhanova@gmail.com) ✉️
+- Telegram: [@dillnazzza](https://t.me/dillnazzza) 💬
 
 Thank you for visiting my GitHub page! Feel free to connect and collaborate. 🚀
