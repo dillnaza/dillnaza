@@ -31,8 +31,8 @@ I used to participate in various Olympiads, including programming. You can get a
 
 ## Contact Information 📧
 
-- Email: [dilnazbaidakhanova@gmail.com](mailto:dilnazbaidakhanova@gmail.com) ✉️
-- Telegram: [@dillnazzza](https://t.me/dillnazzza) 💬
+- Email: [dilnazbaidakhanova@gmail.com](mailto:dilnazbaidakhanova@gmail.com) 
+- Telegram: [@dillnazzza](https://t.me/dillnazzza) 
 
 
 
