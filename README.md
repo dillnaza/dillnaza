@@ -4,7 +4,7 @@ Hello, I am Dilnaza Baidakhanova! I have been immersed in the world of programmi
 
 ## Education 🎓
 
-- Candidate for a bachelor's degree at Astana IT University, currently studying in the second year with an average score of 3.43/4.0.
+- Candidate for a bachelor's degree at Astana IT University, currently studying in the second year with GPA 3.43/4.0.
 - Graduated from Ust-Kamenogorsk Higher Polytechnic College with an impressive average score of 5.0/5.0.
 
 ## Programming experience 💻
