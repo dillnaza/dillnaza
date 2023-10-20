@@ -1,6 +1,6 @@
 # About me 👩‍💻
 
-Hello, I'm Dilnaza Baidakhanova! I have been programming for over four years, studying various areas in the technology industry.
+Hello, I'm Dilnaza! I am a backend developer, I have been programming for more than four years, studying different areas until this time. Since 2023 I have been studying backend development in depth.
 
 ## Education 🎓
 
