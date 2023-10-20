@@ -1,6 +1,6 @@
 # About me 👩‍💻
 
-Hello, I am Dilnaza Baidakhanova! I have been immersed in the world of programming for more than four years, exploring various directions in the high-tech industry.
+Hello, I'm Dilnaza Baidakhanova! I have been programming for over four years, studying various areas in the technology industry.
 
 ## Education 🎓
 
