@@ -24,7 +24,7 @@ Hello, I'm Dilnaza! I am a backend developer, I have been programming for more t
 
 I used to participate in various Olympiads, including programming. You can get acquainted with my achievements in programming and more detailed information on [LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/ )
 
-# GitHub & LeetCode Stats 📊
+## GitHub & LeetCode Stats 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)
