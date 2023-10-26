@@ -4,7 +4,7 @@ Hello, I'm Dilnaza! I am a backend developer with over four years of programming
 
 ## Education 🎓
 
-- 📚 Candidate for a bachelor's degree at Astana IT University, currently in my second year with a GPA of 3.43/4.0.
+- 🎓 Candidate for a bachelor's degree at Astana IT University, currently in my second year with a GPA of 3.43/4.0.
 - 🎓 Graduated from Ust-Kamenogorsk Higher Polytechnic College with a perfect score of 5.0/5.0.
 
 ## Programming experience 💻
@@ -17,7 +17,7 @@ Hello, I'm Dilnaza! I am a backend developer with over four years of programming
 
 ## Professional courses 📚
 
-- 🌐 Completed Backend Development on Django(REST) at the Element Programming School as part of the TechOrda program.
+- 🐍 Completed Backend Development on Django(REST) at the Element Programming School as part of the TechOrda program.
 - ☕ Enrolled in a Java Spring development course at the JustCode Programming School with financial support from Halyk Bank.
 
 ## Academic achievements 🏆
@@ -30,7 +30,3 @@ Participated in various Olympiads, including programming. Explore my programming
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)
 
 Thank you for visiting my GitHub page! Don't hesitate to connect and collaborate. 🚀
-
-LinkedIn: [Link](https://www.linkedin.com/in/dilnaza-baidakhanova-053b36272/)
-Telegram: [Link](https://t.me/dillnazzza)
-Email: dilnazbaidakhanova@gmail.com
