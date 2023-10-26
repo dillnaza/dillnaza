@@ -1,37 +1,36 @@
 # About me 👩‍💻
 
-Hello, I'm Dilnaza! I am a backend developer, I have been programming for more than four years, studying different areas until this time. Since 2023 I have been studying backend development in depth.
+Hello, I'm Dilnaza! I am a backend developer with over four years of programming experience, specializing in backend development since 2023.
 
 ## Education 🎓
 
-- Candidate for a bachelor's degree at Astana IT University, currently studying in the second year with a GPA 3.43/4.0.
-- Graduated from Ust-Kamenogorsk Higher Polytechnic College with an impressive average score of 5.0/5.0.
+- 📚 Candidate for a bachelor's degree at Astana IT University, currently in my second year with a GPA of 3.43/4.0.
+- 🎓 Graduated from Ust-Kamenogorsk Higher Polytechnic College with a perfect score of 5.0/5.0.
 
 ## Programming experience 💻
 
-- Full Stack development: I created custom websites using C# (.NET Core) and PHP (Laravel).
-- Android App Development: I have experience working with Java to create Android apps.
-- Game Development: I worked with Unity3D on game development.
-- Augmented Reality: I used Unity and ARCore in C# for AR projects.
-- Backend development: I am currently diligently studying backend development, focusing on Java (Spring).
+- 💻 Full Stack development: Created custom websites using C# (.NET Core) and PHP (Laravel).
+- 📱 Android App Development: Proficient in Java for Android app development.
+- 🎮 Game Development: Worked with Unity3D on game projects.
+- 🌟 Augmented Reality: Utilized Unity and ARCore in C# for AR projects.
+- ⚙️ Backend development: Currently focused on Java (Spring) for backend development.
 
 ## Professional courses 📚
 
-- Backend Development on Django(REST) at the Element Programming School under the TechOrda program.
-- Java Spring development course at the JustCode Programming School with the financial support of Halyk Bank.
+- 🌐 Completed Backend Development on Django(REST) at the Element Programming School as part of the TechOrda program.
+- ☕ Enrolled in a Java Spring development course at the JustCode Programming School with financial support from Halyk Bank.
 
 ## Academic achievements 🏆
 
-I used to participate in various Olympiads, including programming. You can get acquainted with my achievements in programming and more detailed information on [LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/ )
+Participated in various Olympiads, including programming. Explore my programming achievements and more details on [LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/)
 
 ## GitHub & LeetCode Stats 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)
 
-Thank you for visiting my GitHub page! Feel free to connect and collaborate. 🚀
+Thank you for visiting my GitHub page! Don't hesitate to connect and collaborate. 🚀
 
 LinkedIn: [Link](https://www.linkedin.com/in/dilnaza-baidakhanova-053b36272/)
 Telegram: [Link](https://t.me/dillnazzza)
 Email: dilnazbaidakhanova@gmail.com
-
