@@ -31,14 +31,7 @@ I used to participate in various Olympiads, including programming. You can get a
 
 Thank you for visiting my GitHub page! Feel free to connect and collaborate. 🚀
 
-PS: You can click icons below:
-   <a href="https://www.linkedin.com/in/dilnaza-baidakhanova-053b36272/" rel="nofollow">
-      <img align="center" src="LinkedIn Icon Image URL" style="max-width: 100%;">
-   </a>
-   <a href="https://t.me/dillnazzza" rel="nofollow">
-      <img align="center" src="Telegram Icon Image URL" style="max-width: 100%;">
-   </a>
-   <a href="mailto:dilnazbaidakhanova@gmail.com" rel="nofollow">
-      <img align="center" src="Gmail Icon Image URL" style="max-width: 100%;">
-   </a>
+LinkedIn: [Link](https://www.linkedin.com/in/dilnaza-baidakhanova-053b36272/)
+Telegram: [Link](https://t.me/dillnazzza)
+Email: dilnazbaidakhanova@gmail.com
 
