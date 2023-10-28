@@ -17,8 +17,8 @@ Hello, I'm Dilnaza! I am a backend developer with over four years of programming
 
 ## Professional courses 📚
 
-- 🐍 Completed Backend Development on Django(REST) at the Element Programming School as part of the TechOrda program.
-- ☕ Enrolled in a Java Spring development course at the JustCode Programming School with financial support from Halyk Bank.
+- 🐍 Completed the development of the Django(REST) server part at the Element Programming School as part of the TechOrda program.
+- ☕ I am currently taking a Java Spring development course at the JustCode Programming School with the financial support of Halyk Bank.
 
 ## Academic achievements 🏆
 
