@@ -4,8 +4,8 @@ Hello, I'm Dilnaza! I am a backend developer with over four years of programming
 
 ## Education 🎓
 
-- Candidate for a bachelor's degree at Astana IT University, currently in my second year (GPA of 3.43/4.0 && SSCI 3.99/4.0).
-- Graduated from Ust-Kamenogorsk Higher Polytechnic College with a perfect score of 5.0/5.0.
+- Candidate for a bachelor's degree at Astana IT University, currently in my second year (GPA of 3.43/4.0 & SSCI 3.99/4.0).
+- Graduated from Ust-Kamenogorsk Higher Polytechnic College with an impressive average score of 5.0/5.0.
 
 ## Programming experience 💻
 
