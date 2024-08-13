@@ -7,14 +7,6 @@ Hello, I'm Dilnaza! I am a backend developer with over four years of programming
 - Candidate for a bachelor's degree at Astana IT University, currently in my second year (GPA of 3.5/4.0).
 - Graduated from Ust-Kamenogorsk Higher Polytechnic College with an impressive average score of 5.0/5.0.
 
-## Programming experience 💻
-
-- 💻 Full Stack development: Created custom website using C# (.NET Core) and PHP (Laravel).
-- 📱 Android App Development: Proficient in Java for Android app development.
-- 🎮 Game Development: Worked with Unity3D on game projects.
-- 🌟 Augmented Reality: Utilized Unity and ARCore in C# for AR project.
-- ⚙️ Backend development: Currently focused on Java (Spring) for backend development.
-
 ## Professional courses 📚
 
 - 🐍 Completed Backend Development on Django (REST) ​​at the Element Programming School under the Tech Order program.
