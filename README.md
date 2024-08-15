@@ -1,6 +1,6 @@
 # About me 👩‍💻
 
-Hi, I'm Dilnaza. 
+Dilnaza, backend developer</>
 
 ## Education 🎓
 
