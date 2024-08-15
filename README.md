@@ -1,6 +1,6 @@
 # About me 👩‍💻
 
-Hello, I'm Dilnaza Baidakhanova.
+..
 
 ## Education 🎓
 
