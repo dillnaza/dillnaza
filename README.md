@@ -1,6 +1,6 @@
 # About me 👩‍💻
 
-Hello, I'm Dilnaza! I am a backend developer with over four years of programming experience, specializing in backend development since 2023.
+Hello, I'm Dilnaza Baidakhanova.
 
 ## Education 🎓
 
