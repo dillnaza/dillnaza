@@ -9,7 +9,7 @@ Dilnaza, backend developer.
 
 ## Professional courses 📚
 
-- 🐍 Completed Backend Development on Django (REST) ​​at the Element Programming School under the Tech Order program.
+- 🐍 Completed Backend Development on Django (REST) ​​at the Element Programming School under the Tech Orda program.
 - ☕ Took a Java Spring development course at Just Code Programming School with financial support Halyk Bank.
 
 ## Academic achievements 🏆
