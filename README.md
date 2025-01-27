@@ -4,7 +4,7 @@ Dilnaza, backend developer.
 
 ## Education 🎓
 
-- Candidate for a bachelor's degree at Astana IT University, currently in my second year (GPA of 3.5/4.0).
+- Candidate for a bachelor's degree at Astana IT University, currently in my final year (GPA of 3.5/4.0).
 - Graduated from Ust-Kamenogorsk Higher Polytechnic College with an impressive average score of 5.0/5.0.
 
 ## Professional courses 📚
