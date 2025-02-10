@@ -1,4 +1,5 @@
 # 👩‍💻 About me 
+[![](https://raw.githubusercontent.com/dillnaza/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/dillnaza)
 
 Dilnaza, full-stack developer.
 
@@ -24,6 +25,4 @@ Participated in various Olympiads, including programming. Explore my programming
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)
 
 Thank you for visiting my GitHub page! Don't hesitate to connect and collaborate. 🚀
-
-![3D Contribution](https://github.com/dillnaza/dillnaza/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
