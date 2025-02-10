@@ -18,6 +18,7 @@ Participated in various Olympiads, including programming. Explore my programming
 
 ## 📊 GitHub & LeetCode Stats 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dillnaza&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillnaza&layout=compact&langs_count=6&theme=radical)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)
