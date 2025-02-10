@@ -2,7 +2,7 @@
 
 # 👩‍💻 About Me  
 
-Hi! I'm **Dilnaza**, a passionate **full-stack developer** with experience in **Java Spring**, **Python Django**and **C# .netCore**.  
+Hi! I'm **Dilnaza**, a passionate **full-stack developer** with experience in **Java Spring**, **Python Django** and **C# .netCore**.  
 
 ---
 
