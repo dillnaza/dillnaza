@@ -1,5 +1,8 @@
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 # 👩‍💻 About me 
-[![](https://raw.githubusercontent.com/dillnaza/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/dillnaza)
 
 Dilnaza, full-stack developer.
 
