@@ -1,5 +1,4 @@
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=<?= Date.now() ?>)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 
 # 👩‍💻 About me 
