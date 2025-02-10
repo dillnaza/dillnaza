@@ -1,4 +1,5 @@
 # 👩‍💻 About me 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Hello%2C+world!;I+am+Dilnaza+Baidakhanova!;Welcome+to+my+GitHub+Profile!)
 
 Dilnaza, full-stack developer.
 
