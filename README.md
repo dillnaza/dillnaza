@@ -1,5 +1,4 @@
 # 👩‍💻 About me 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Hello%2C+world!;I+am+Dilnaza+Baidakhanova!;Welcome+to+my+GitHub+Profile!)
 
 Dilnaza, full-stack developer.
 
@@ -25,3 +24,9 @@ Participated in various Olympiads, including programming. Explore my programming
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)
 
 Thank you for visiting my GitHub page! Don't hesitate to connect and collaborate. 🚀
+
+## 📬 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilnaza-baidakhanova/)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
