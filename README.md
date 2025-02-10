@@ -24,23 +24,23 @@ Hi! I'm **Dilnaza**, a passionate **full-stack developer** with experience in **
 ---
 
 ## 🏆 Academic Achievements  
-- Participated in various Olympiads, including programming.
+Participated in various Olympiads, including programming.
 - 💡 Explore more about my achievements on **[LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/)**  
 
 ---
 
 ## 📊 GitHub & LeetCode Stats  
 
-📈 **GitHub Overview**  
+**GitHub Overview**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true&theme=radical)  
 
-🔥 **Contribution Streak**  
+**Contribution Streak**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dillnaza&theme=radical)  
 
-📌 **Most Used Languages**  
+**Most Used Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillnaza&layout=compact&langs_count=6&theme=radical)  
 
-🚀 **LeetCode Challenges**  
+**LeetCode Challenges**  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)  
 
 ---
