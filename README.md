@@ -1,30 +1,48 @@
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
+# 👩‍💻 About Me  
 
-# 👩‍💻 About me 
+Hi! I'm **Dilnaza**, a passionate **full-stack developer** with experience in **Java Spring**, **Python Django**and **C# .netCore**.  
 
-Dilnaza, full-stack developer.
+---
 
-## 🎓 Education 
+## 🎓 Education  
 
-- Candidate for a bachelor's degree at Astana IT University, currently in my final year (GPA of 3.5/4.0).
-- Graduated from Ust-Kamenogorsk Higher Polytechnic College with an impressive average score of 5.0/5.0.
+ **Bachelor's Degree (Candidate)** | **Astana IT University** (Final Year)  
+📊 **GPA:** 3.5 / 4.0  
 
-## 📚 Professional courses 
+ **Diploma with Distinction** | **Ust-Kamenogorsk Higher Polytechnic College**  
+📊 **Average Score:** 5.0 / 5.0  
 
-- 🐍 Completed Backend Development on Django (REST) ​​at the Element Programming School under the Tech Orda program.
-- ☕ Took a Java Spring development course at Just Code Programming School with financial support Halyk Bank.
+---
 
-## 🏆 Academic achievements 
+## 📚 Professional Courses  
 
-Participated in various Olympiads, including programming. Explore my programming achievements and more details on [LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/)
+- 🐍 **Backend Development on Django** – *Element Programming School (Tech Orda Program)*  
+- ☕ **Java Spring Development** – *Just Code Programming School (Funded by Halyk Bank)*  
 
-## 📊 GitHub & LeetCode Stats 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dillnaza&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillnaza&layout=compact&langs_count=6&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)
+## 🏆 Academic Achievements  
+- Participated in various Olympiads, including programming.
+- 💡 Explore more about my achievements on **[LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/)**  
+
+---
+
+## 📊 GitHub & LeetCode Stats  
+
+📈 **GitHub Overview**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true&theme=radical)  
+
+🔥 **Contribution Streak**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dillnaza&theme=radical)  
+
+📌 **Most Used Languages**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillnaza&layout=compact&langs_count=6&theme=radical)  
+
+🚀 **LeetCode Challenges**  
+![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)  
+
+---
 
 Thank you for visiting my GitHub page! Don't hesitate to connect and collaborate. 🚀
-
