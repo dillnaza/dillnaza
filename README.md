@@ -1,6 +1,6 @@
 # 👩‍💻 About me 
 
-Dilnaza, backend developer.
+Dilnaza, full-stack developer.
 
 ## 🎓 Education 
 
