@@ -4,7 +4,6 @@
 
 Hi! I'm **Dilnaza**, a passionate **full-stack developer** with experience in **Java Spring**, **Python Django** and **C# .netCore**.  
 
----
 
 ## 🎓 Education  
 
@@ -14,20 +13,17 @@ Hi! I'm **Dilnaza**, a passionate **full-stack developer** with experience in **
  **Diploma with Distinction** | **Ust-Kamenogorsk Higher Polytechnic College**  
 📊 **Average Score:** 5.0 / 5.0  
 
----
 
 ## 📚 Professional Courses  
 
 - 🐍 **Backend Development on Django** – *Element Programming School (Tech Orda Program)*  
 - ☕ **Java Spring Development** – *Just Code Programming School (Funded by Halyk Bank)*  
 
----
 
 ## 🏆 Academic Achievements  
 Participated in various Olympiads, including programming.
 - 💡 Explore more about my achievements on **[LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/)**  
 
----
 
 ## 📊 GitHub & LeetCode Stats  
 
