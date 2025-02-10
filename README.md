@@ -1,5 +1,5 @@
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random Quote](https://img.shields.io/endpoint?url=https://api.quotable.io/random)
 
 
 # 👩‍💻 About me 
