@@ -25,8 +25,5 @@ Participated in various Olympiads, including programming. Explore my programming
 
 Thank you for visiting my GitHub page! Don't hesitate to connect and collaborate. 🚀
 
-## 📬 Connect with me
+![3D Contribution](https://github.com/dillnaza/dillnaza/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilnaza-baidakhanova/)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
