@@ -1,5 +1,5 @@
 
-![Random Quote](https://img.shields.io/endpoint?url=https://api.quotable.io/random)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=<?= Date.now() ?>)
 
 
 # 👩‍💻 About me 
