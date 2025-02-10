@@ -8,7 +8,7 @@ Hi! I'm **Dilnaza**, a passionate **full-stack developer** with experience in **
 
 ## 🎓 Education  
 
- **Bachelor's Degree (Candidate)** | **Astana IT University** (Final Year)  
+ **Bachelor's Degree** | **Astana IT University** (Final Year)  
 📊 **GPA:** 3.5 / 4.0  
 
  **Diploma with Distinction** | **Ust-Kamenogorsk Higher Polytechnic College**  
