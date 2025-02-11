@@ -16,13 +16,13 @@ Hi! I'm **Dilnaza**, **full-stack developer**.
 
 ## 📚 Professional Courses  
 
-- 🐍 **Backend Development on Django** – *Element Programming School (Tech Orda Program)*  
-- ☕ **Java Spring Development** – *Just Code Programming School (Funded by Halyk Bank)*  
+🐍 **Backend Development on Django** – *Element Programming School (Tech Orda Program)*  
+☕ **Java Spring Development** – *Just Code Programming School (Funded by Halyk Bank)*  
 
 
 ## 🏆 Academic Achievements  
-Participated in various Olympiads, including programming.
-- Explore more about my achievements on **[LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/)**  
+Participated in various Olympiads, including programming. 
+Explore more about my achievements on **[LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/)**  
 
 
 ## 📊 GitHub & LeetCode Stats  
