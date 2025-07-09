@@ -8,7 +8,7 @@ Hi! I'm **Dilnaza**, **full-stack developer**.
 ## 🎓 Education  
 
  **Bachelor's Degree** | **Astana IT University**  
- 📊 **GPA:** 3.5 / 4.0  
+ 📊 **GPA:** 3.44 / 4.0  
 
  **Diploma with Distinction** | **Ust-Kamenogorsk Higher Polytechnic College**  
  📊 **Average Score:** 5.0 / 5.0  
