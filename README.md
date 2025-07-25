@@ -1,4 +1,4 @@
-## 👩‍💻 Dilnaza Baidakhanova | Full-Stack Developer.
+### 👩‍💻 Dilnaza Baidakhanova | Full-Stack Developer.
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
