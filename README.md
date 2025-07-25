@@ -1,7 +1,6 @@
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
-
 ## 👩‍💻 Dilnaza Baidakhanova | Full-Stack Developer.
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 
 ## 🛠 Tech Stack
