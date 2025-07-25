@@ -1,8 +1,27 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-# 👩‍💻 About Me  
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500"/>
+## Dilnaza Baidakhanova | Full-Stack Developer.
 
-Hi! I'm **Dilnaza**, **full-stack developer**.  
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Spring Core](https://img.shields.io/badge/-Spring%20Core-05122A?style=flat&logo=spring)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=dotnet)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
+![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=hibernate)
+![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)
+![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=postman)
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
 
 ## 🎓 Education  
