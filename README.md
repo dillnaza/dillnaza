@@ -1,7 +1,8 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>
+
 ## Dilnaza Baidakhanova | Full-Stack Developer.
+
 
 ## 🛠 Tech Stack
 
