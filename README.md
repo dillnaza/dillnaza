@@ -1,5 +1,7 @@
-### 👩‍💻 Dilnaza Baidakhanova | Full-Stack Developer.
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+## 👩‍💻 Dilnaza Baidakhanova | Full-Stack Developer.
+
+
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
