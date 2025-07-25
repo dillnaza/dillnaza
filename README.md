@@ -41,9 +41,6 @@ Participated in various Olympiads, including programming.
 Explore more about my achievements on **[LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/)**  
 
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
-
 ## 📊 GitHub & LeetCode Stats  
 
 **GitHub Overview**  
@@ -56,5 +53,5 @@ Explore more about my achievements on **[LinkedIn](https://www.linkedin.com/in/d
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)  
 
 ---
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 Thank you for visiting my GitHub page! Don't hesitate to connect and collaborate. 🚀
