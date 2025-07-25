@@ -9,9 +9,6 @@
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=dotnet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
-![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=hibernate)
-![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)
-![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
@@ -19,6 +16,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 
 
