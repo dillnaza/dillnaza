@@ -1,5 +1,4 @@
 ### 👩‍💻 Dilnaza Baidakhanova | Full-Stack Developer.
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 
 ## 🛠 Tech Stack
@@ -40,6 +39,9 @@
 ## 🏆 Academic Achievements  
 Participated in various Olympiads, including programming. 
 Explore more about my achievements on **[LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/)**  
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 
 ## 📊 GitHub & LeetCode Stats  
