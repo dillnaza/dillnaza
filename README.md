@@ -11,7 +11,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=hibernate)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)
-![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
