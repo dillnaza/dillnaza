@@ -16,16 +16,11 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
-![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=testinglibrary)
-![Mockito](https://img.shields.io/badge/-Mockito-05122A?style=flat&logo=testinglibrary)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 
 
 ## 🎓 Education  
