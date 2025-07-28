@@ -19,6 +19,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=protocols.io)
 ![SOAP](https://img.shields.io/badge/-SOAP-05122A?style=flat&logo=apache)
+![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat&logo=polywork)
 
 ## 🎓 Education  
  **Bachelor's Degree** | **Astana IT University**  
