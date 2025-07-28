@@ -27,11 +27,11 @@
  **Vocational education** | **Ust-Kamenogorsk Higher Polytechnic College**  
  📊 **Average Score:** 5.0 / 5.0  
 
-## 📚 Professional Courses  
-![Huawei](https://img.shields.io/badge/-Search%20and%20AI-E60012?style=flat&logo=huawei&logoColor=white) – *Huawei (2025)*
-![Huawei](https://img.shields.io/badge/-Overview%20of%20AI-E60012?style=flat&logo=huawei&logoColor=white) – *Huawei (2025)*  
-![Cisco](https://img.shields.io/badge/-Networking%20Basics-1BA0D7?style=flat&logo=cisco&logoColor=white) – *Cisco (2025)*  
-![Django](https://img.shields.io/badge/-Backend%20Development%20on%20Django-092E20?style=flat&logo=django&logoColor=white) – *Element Programming School (Tech Orda Program, 2023)*  
+## 📚 Professional Courses
+![Huawei](https://img.shields.io/badge/- -E60012?style=flat&logo=huawei&logoColor=white) **Search and AI** – *Huawei (2025)*
+![Huawei](https://img.shields.io/badge/- -E60012?style=flat&logo=huawei&logoColor=white) **Overview of AI** – *Huawei (2025)*  
+![Cisco](https://img.shields.io/badge/- -1BA0D7?style=flat&logo=cisco&logoColor=white) **Networking Basics** – *Cisco (2025)*  
+![Django](https://img.shields.io/badge/- -092E20?style=flat&logo=django&logoColor=white) **Backend Development on Django** – *Element Programming School (Tech Orda Program, 2023)*  
 
 ## 🏆 Academic Achievements  
 Participated in various Olympiads, including programming. 
