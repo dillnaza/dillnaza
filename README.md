@@ -17,6 +17,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
+![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=protocols.io)
+![SOAP](https://img.shields.io/badge/-SOAP-05122A?style=flat&logo=apache)
 
 ## 🎓 Education  
  **Bachelor's Degree** | **Astana IT University**  
