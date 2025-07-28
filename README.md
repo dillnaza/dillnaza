@@ -28,10 +28,10 @@
  📊 **Average Score:** 5.0 / 5.0  
 
 ## 📚 Professional Courses
-![Huawei](https://img.shields.io/badge/HUAWEI-E60012?style=flat&logo=huawei&logoColor=white) **Search and AI** – *(2025)*  
-![Huawei](https://img.shields.io/badge/HUAWEI-E60012?style=flat&logo=huawei&logoColor=white) **Overview of AI** – *(2025)*  
-![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=flat&logo=cisco&logoColor=white) **Networking Basics** – *(2025)*  
-![Django](https://img.shields.io/badge/DJANGO-092E20?style=flat&logo=django&logoColor=white) **Backend Development on Django** – *(Tech Orda Program, 2023)*  
+![Huawei](https://img.shields.io/badge/-E60012?style=flat&logo=huawei&logoColor=white) **Search and AI** – *(Huawei, 2025)*  
+![Huawei](https://img.shields.io/badge/-E60012?style=flat&logo=huawei&logoColor=white) **Overview of AI** – *(Huawei, 2025)*  
+![Cisco](https://img.shields.io/badge/-1BA0D7?style=flat&logo=cisco&logoColor=white) **Networking Basics** – *Cisco (2025)*  
+![Django](https://img.shields.io/badge/-092E20?style=flat&logo=django&logoColor=white) **Backend Development on Django** – *(Tech Orda Program, 2023)*  
 
 ## 🏆 Academic Achievements  
 Participated in various Olympiads, including programming. 
