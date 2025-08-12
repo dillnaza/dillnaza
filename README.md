@@ -25,7 +25,7 @@
  **Bachelor's Degree** | **Astana IT University**  
  📊 **GPA:** 3.44 / 4.0  
  **Vocational education** | **Ust-Kamenogorsk Higher Polytechnic College**  
- 📊 **Average Score:** 5.0 / 5.0  
+ 📊 **GPA:** 5.0 / 5.0  
 
 ## 📚 Professional Courses
 ![Huawei](https://img.shields.io/badge/-E60012?style=flat&logo=huawei&logoColor=white) **Search and AI** – *Huawei (2025)*  
