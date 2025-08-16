@@ -1,4 +1,4 @@
-### 👩‍💻 Dilnaza Baidakhanova | Full-Stack Developer.
+### 👩‍💻 Dilnaza Baidakhanova | FullStack Developer.
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
