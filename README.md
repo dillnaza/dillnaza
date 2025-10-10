@@ -45,6 +45,3 @@ Explore more about my achievements on **[LinkedIn](https://www.linkedin.com/in/d
 **LeetCode Challenges**  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)  
 
----
-
-Thank you for visiting my GitHub page! Don't hesitate to connect and collaborate. 🚀
