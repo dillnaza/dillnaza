@@ -6,7 +6,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=dotnet)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
