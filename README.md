@@ -38,8 +38,6 @@ Participated in various Olympiads, including programming.
 Explore more about my achievements on **[LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/)**  
 
 ## 📊 GitHub & LeetCode Stats  
-**GitHub Overview**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dillnaza&show_icons=true&theme=radical)  
 **Most Used Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillnaza&layout=compact&langs_count=6&theme=radical)  
 **LeetCode Challenges**  
