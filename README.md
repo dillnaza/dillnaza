@@ -1,8 +1,7 @@
 ## Dilnaza Baidakhanova · Full Stack Developer
 
 Java · Spring Boot · Angular · PostgreSQL  
-Currently at **E-Finance Center** — building the State Investment Projects platform  
-for the Government of Kazakhstan.
+Currently at **E-Finance Center** — building the State Investment Projects platform for the Government of Kazakhstan.
 
 ---
 
