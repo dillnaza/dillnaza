@@ -1,8 +1,14 @@
-### 👩‍💻 Dilnaza Baidakhanova | FullStack Developer
+## Dilnaza Baidakhanova · Full Stack Developer
 
-## 🛠 Tech Stack
+Java / Spring Boot · Angular · PostgreSQL  
+Building enterprise financial systems for the public sector in Kazakhstan.  
+Currently at **E-Finance Center** — developing the State Investment Projects (GIP) platform.
+
+---
+
+### 🛠 Tech Stack
+
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![Spring Core](https://img.shields.io/badge/-Spring%20Core-05122A?style=flat&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=dotnet)
@@ -10,36 +16,34 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-05122A?style=flat&logo=gitlab)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=protocols.io)
-![SOAP](https://img.shields.io/badge/-SOAP-05122A?style=flat&logo=apache)
-![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat&logo=polywork)
 
-## 🎓 Education  
- **Bachelor's Degree** | **Astana IT University**  
- 📊 **GPA:** 3.44 / 4.0  
- **Vocational education** | **Ust-Kamenogorsk Higher Polytechnic College**  
- 📊 **GPA:** 5.0 / 5.0  
+---
 
-## 📚 Professional Courses
-![Huawei](https://img.shields.io/badge/-E60012?style=flat&logo=huawei&logoColor=white) **Search and AI** – *Huawei (2025)*  
-![Huawei](https://img.shields.io/badge/-E60012?style=flat&logo=huawei&logoColor=white) **Overview of AI** – *Huawei (2025)*  
-![Cisco](https://img.shields.io/badge/-1BA0D7?style=flat&logo=cisco&logoColor=white) **Networking Basics** – *Cisco (2025)*  
-![Django](https://img.shields.io/badge/-092E20?style=flat&logo=django&logoColor=white) **Backend Development on Django** – *Element Programming School (Tech Orda Program, 2023)*  
+### 💼 Experience
 
-## 🏆 Academic Achievements  
-Participated in various Olympiads, including programming. 
-Explore more about my achievements on **[LinkedIn](https://www.linkedin.com/in/dilnaza-baidakhanova/)**  
+**Full Stack Developer** · E-Finance Center *(Aug 2024 – present)*  
+Working on GIP — a government platform for monitoring state investment projects.  
+Key contributions: multi-stage approval workflows, Excel report generation (Apache POI),  
+JSONB-based report storage, bilingual (KZ/RU) UI, CI/CD with Kubernetes & GitLab.
 
-## 📊 GitHub & LeetCode Stats  
-**Most Used Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillnaza&layout=compact&langs_count=6&theme=radical)  
-**LeetCode Challenges**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/dillnazza)  
+**Research Project Lead** · Astana IT University *(Feb–Aug 2024)*  
+Led development of AITUS mobile app (.NET Core + React Native).  
+Secured ₸1,000,000 in university research grant. Published at IEEE Student Conference 2024.
 
+---
+
+### 🎓 Education
+
+**B.Sc. Software Engineering** · Astana IT University · GPA 3.44 / 4.0  
+Minor in FinTech Development · 2025
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillnaza&layout=compact&langs_count=6&theme=radical)
